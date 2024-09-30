@@ -1,0 +1,1 @@
+INSERT INTO `simple_data` (`ID`, `NAME`, `AGE`, `ADDRESS`, `JOB`) VALUES (NULL, 'dennise rivera', '26', '4321 new york cubao', 'Accounting'), (NULL, 'freepls jargs', '69', 'Compound 1234 Germany', 'Old guy');
